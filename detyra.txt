@@ -1,4 +1,4 @@
-Detyra
+# Detyra
 1
 2 Krijo nje repozitory
 3
